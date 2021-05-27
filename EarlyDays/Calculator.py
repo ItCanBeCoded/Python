@@ -1,3 +1,0 @@
-#functions with outputs
-
-#
